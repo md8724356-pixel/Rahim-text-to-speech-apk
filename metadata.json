@@ -1,0 +1,6 @@
+{
+  "name": "SonicVoice TTS",
+  "description": "AI & Multilingual Text-to-Speech Studio powered by Cartesia Sonic API with Bangla & English voice synthesis, waveform playback, and audio library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

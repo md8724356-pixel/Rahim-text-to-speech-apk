@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SonicVoice TTS</string>
+    <string name="studio_title">SonicVoice স্টুডিও</string>
+    <string name="studio_subtitle">Cartesia Sonic AI ও মাল্টিলিঙ্গুয়াল টেক্সট-টু-স্পিচ</string>
+    <string name="tab_studio">স্টুডিও (Studio)</string>
+    <string name="tab_voices">ভয়েস (Voices)</string>
+    <string name="tab_library">লাইব্রেরি (History)</string>
+    <string name="input_label">আপনার টেক্সট লিখুন (Enter Text to Speak)</string>
+    <string name="input_placeholder">এখানে বাংলা, ইংরেজি বা যেকোনো ভাষায় টেক্সট লিখুন এবং AI ভয়েসে রূপান্তর করুন…</string>
+    <string name="btn_generate_speech">ভয়েস তৈরি ও প্লে করুন (Synthesize Speech)</string>
+    <string name="btn_generating">অডিও তৈরি হচ্ছে…</string>
+    <string name="btn_clear_text">মুছুন</string>
+    <string name="btn_paste_text">পেস্ট</string>
+    <string name="engine_cartesia">Cartesia Sonic AI</string>
+    <string name="engine_device">ডিভাইস ইঞ্জিন (Device TTS)</string>
+    <string name="empty_library_title">কোনো সেভ করা অডিও নেই</string>
+    <string name="empty_library_subtitle">স্টুডিও ট্যাব থেকে যেকোনো টেক্সট ভয়েসে রূপান্তর করলে তা স্বয়ংক্রিয়ভাবে এখানে সংরক্ষিত হবে।</string>
+    <string name="secret_banner_title">Cartesia API Key কনফিগারেশন নির্দেশিকা</string>
+    <string name="secret_banner_desc">Cartesia ক্লাউড AI ভয়েস ব্যবহারের জন্য AI Studio-এর Secrets প্যানেলে CARTESIA_API_KEY নামে আপনার sk_car_… কী-টি যুক্ত করুন।</string>
+    <string name="share_audio">অডিও শেয়ার করুন</string>
+</resources>
